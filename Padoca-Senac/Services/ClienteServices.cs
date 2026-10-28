@@ -301,43 +301,10 @@ namespace Padoca_Senac.Services
                     $"\nNome {clienteBusca.Nome} " +
                     $"\nPontos: {clienteBusca.Pontos} ");
 
-
-
             }
             Console.ReadKey();
             Console.Clear();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         }
-
-
-
-
-
-
-
-
-
-
-
-
 
     }
 }
